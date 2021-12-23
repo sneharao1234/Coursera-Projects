@@ -1,2 +1,2 @@
-# Coursera-Projects-
+# Coursera-Projects
 Coursera Projects
