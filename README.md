@@ -14,6 +14,8 @@ Results:
 |SVM	              |0.7580	  |0.6648	  |NA      |
 |Logistic Regression|0.7514	  |0.6448	  |0.5583  |
 
+Note: since the dataset was small, a low level of performance was acceptable to the course instructors. 
+
 ## Project 2 - Predict strength of concrete  
 Built various regression models by varying network parameters such as feature normalization, number of epochs, number of hidden layers, etc and compared thir performance. 
 
