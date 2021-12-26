@@ -31,10 +31,7 @@ Results:
 Built image classification networks using ResNet50 and VGG16 and compared their performance. 
 
 Results:
-Performance of classifier using ResNet50 pre-trained model:
-Loss     : 0.0024
-Accuracy : 1.0
-
-Performance of classifier using VGG16 pre-trained model:
-Loss     : 0.0122
-Accuracy : 0.998
+| Model    |Loss   |Accuracy |
+|----------|-------|---------|
+|ResNet50  |0.0024 |1.0      |
+|VGG16     |0.0122 |0.998    |
