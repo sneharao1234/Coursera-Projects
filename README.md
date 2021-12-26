@@ -1,6 +1,6 @@
 # Coursera-Projects
 
-# Project summaries
+## Project summaries
 
 Project 1 - Predict loan status (in collection or paid-off) based on a combination of continuous and categorical features. 
 Performed various feature extraction / creation / selection tasks. 
