@@ -2,7 +2,7 @@
 
 Project summaries
 
-### Project 1 - Predict loan status (in collection or paid-off) 
+## Project 1 - Predict loan status (in collection or paid-off) 
 Performed various feature extraction / creation / selection tasks on a combination of categorical and continuous features. 
 Built machine learning classification models like Logistic regression, K nearest neighbours, Desicion Trees and Support Vector Machines and compared their performance.
 
@@ -14,7 +14,7 @@ Results:
 |SVM	              |0.7580	  |0.6648	  |NA      |
 |Logistic Regression|0.7514	  |0.6448	  |0.5583  |
 
-### Project 2 - Predict strength of concrete  
+## Project 2 - Predict strength of concrete  
 Built various regression models by varying network parameters such as feature normalization, number of epochs, number of hidden layers, etc and compared thir performance. 
 
 Results:
@@ -25,8 +25,9 @@ Results:
 | C    | [input, 10, 1]         |100     |Normalized            |80% of B              |Increasing the number of epochs brings us closer to the optimal weights|
 | D    | [input, 10, 10, 10, 1] |51      |Noramlized            |61% of B              |Increasing the number of hidden layers is much more effecient than increasing the number of epochs|
 
+<img src="comparison.png">
 
-### Project 3 - Identify images if concrete with cracks in them
+## Project 3 - Identify images if concrete with cracks in them
 Built image classification networks using ResNet50 and VGG16 and compared their performance. 
 
 Results:
